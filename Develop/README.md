@@ -1,4 +1,4 @@
-# demo
+# Joseph's Generator
 by Joseph Eyler
 
 ![Github license](https://img.shields.io/badge/license--yellowgreen.svg)
@@ -15,18 +15,18 @@ by Joseph Eyler
 
 
 ## Description
-to make a read me
+To generate a read me
 
 ## Requirements
-none
+None
 
 ## Usage
-to make a readme through the command line
+To make a high quality ReadMe
 
 ## Contact-Me
 * Name - Joseph Eyler
-* Email - 123@demo.com
-* Github - [JosephE](https://github.com/JosephE/)
+* Email - josepheyler1@gmail.com
+* Github - [JosephEyler1](https://github.com/JosephEyler1/)
 
 ## Contributors
 
